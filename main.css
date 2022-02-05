@@ -1,0 +1,46 @@
+body {
+  margin: auto;
+  padding: 0;
+  text-align: center;
+  max-width: 1920px;
+}
+
+.container-main {
+  margin-top: 50px;
+}
+
+.main-h1 {
+  color: rgb(58, 55, 55);
+}
+
+.container-blog {
+}
+
+.main-h4 {
+  color: rgb(94, 100, 105);
+}
+
+.col-img {
+  margin-top: 60px;
+}
+
+.col-img > img {
+  height: 200px;
+  width: 300px;
+}
+
+.blog-card {
+  width: auto;
+}
+
+.container-footer {
+  margin-top: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: rgb(250, 244, 244);
+}
+
+.footer-link {
+  margin-left: 20px;
+  margin-right: 20px;
+}
